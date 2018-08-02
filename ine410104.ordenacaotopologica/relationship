@@ -1,0 +1,153 @@
+GHC 6.0:::Haskell 2010
+C++:::Rust
+Erlang:::Rust
+OCaml:::Rust
+Haskell 98:::Rust
+C# 2.0:::Rust
+Lua 4.0:::Lua 5.0
+Ada 83:::Ada 95
+Scheme 84:::Scheme R3RS
+PL/I:::Pascal
+Algol W:::Pascal
+Python 2.0:::Python 2.2
+CPL:::BCPL
+ML:::SML
+Ada:::Ada 83
+C++ (ARM):::C++ (ISO)
+Fortran IV:::Basic
+Java 5:::Java 6
+Smalltalk 76:::Smalltalk 78
+SML 90:::Mercury
+Prolog:::Mercury
+Haskell:::Mercury
+Modula-3:::Python
+ANSI C:::Python
+ABC:::Python
+Algol 60:::Scheme
+Lisp:::Scheme
+Modula:::Modula-2
+Pascal:::CLU
+Simula 67:::CLU
+Common Lisp:::CLOS
+ML:::Miranda
+Smalltalk 80:::AppleScript
+Java:::Java 2
+Perl 4:::Perl 5
+Python 2.2:::Python 2.4
+Lua:::Io
+Smalltalk 80:::Io
+Scheme MIT:::Common Lisp
+Lisp:::Common Lisp
+Python:::Python 1.5.2
+Fortran I:::Fortran II
+C#:::D 1.0
+Java:::D 1.0
+C 99:::D 1.0
+C++:::D 1.0
+BCPL:::B
+Python 2.4:::Python 2.5
+Flow-matic:::COBOL
+Smalltalk:::Smalltalk 72
+Haskell 98:::Swift
+CLU:::Swift
+Objective-C:::Swift
+C# 2.0:::Swift
+D 1.0:::Swift
+Ruby:::Swift
+Python 2.0:::Swift
+Rust:::Swift
+Haskell:::Gofer
+Algol 58:::Algol 60
+Smalltalk 80:::Squeak
+Python 2.5:::Python 3.0
+C++:::C++ (ARM)
+Ada 83:::C++ (ARM)
+CLU:::C++ (ARM)
+Java 7:::Java 8
+Scheme R4RS:::Scheme R5RS
+C# 2.0:::C# 3.0
+Common Lisp:::Erlang
+Prolog:::Erlang
+Scheme R3RS:::Scheme R4RS
+Lazy ML:::Haskell
+Miranda:::Haskell
+Common Lisp:::Common Lisp (ANSI)
+Smalltalk 74:::Smalltalk 76
+COBOL:::PL/I
+Algol 60:::PL/I
+Fortran IV:::PL/I
+Prolog:::Prolog ISO
+ANSI C:::C 95
+Algol 60:::Algol 68
+Pascal AFNOR:::Lua
+Perl 4:::Lua
+Fortran I:::Algol 58
+Algol 60:::Algol W
+Algol 60:::Simula I
+C++ (ARM):::Oak
+Fortran IV:::Fortran 77
+Fortran 2003:::Fortress 1.0beta
+Scala:::Fortress 1.0beta
+Gofer:::Haskell 98
+Haskell:::Haskell 98
+Smalltalk 72:::Smalltalk 74
+Pascal:::Modula
+Java 6:::Java 7
+Python 3.0:::Python 3.6
+OCaml:::Scala
+.NET:::Scala
+Java 2:::Scala
+Prolog:::Life
+Smalltalk 80:::Ruby
+Perl 4:::Ruby
+Python:::Ruby
+Java 2:::Java 5
+Java 2:::CAL (Open Quark)
+Haskell 98:::CAL (Open Quark)
+C 95:::C 99
+Simula 67:::Eiffel
+Ada 83:::Eiffel
+Python 1.5.2:::Python 2.0
+B:::C
+Algol 68:::C
+Scheme:::Scheme MIT
+C++:::ANSI C
+C (K&R):::ANSI C
+Modula-2:::Modula-3
+Haskell 98:::GHC 5.00
+Lua:::Lua 4.0
+S:::R
+Scheme:::R
+Common Lisp:::R
+Algol 60:::CPL
+Smalltalk 80:::Objective-C
+C (K&R):::Objective-C
+Perl 5:::PHP
+Oak:::Java
+Simula 67:::Smalltalk
+Fortran 90:::Fortran 2003
+Scheme MIT:::Scheme 84
+C#:::C# 2.0
+C:::C (K&R)
+Smalltalk 78:::Smalltalk 80
+C (K&R):::C++
+Algol 68:::C++
+Simula 67:::C++
+Simula I:::Simula 67
+GHC 5.00:::GHC 6.0
+Java 2:::C#
+C++ (ISO):::C#
+Fortran 77:::Fortran 90
+CSP:::Ada
+Pascal:::Ada
+Prolog:::CLIPS
+Prolog:::Lambda Prolog
+SML:::Lambda Prolog
+Fortran II:::Fortran IV
+Python 2.0:::Go
+C:::Go
+CSP:::Go
+Smalltalk 80:::Go
+Modula-3:::Go
+Pascal:::Go
+C (K&R):::ANSI C
